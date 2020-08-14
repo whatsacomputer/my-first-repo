@@ -1,28 +1,25 @@
-this is a large heading
+# Derek Halkes
 
-this is a smaller heading
+### Geography
 
-as as **imagination** bodies forth,
-The forms of things *unknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in southern New Jersey, in the United States of America.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite books are:
 
-Here is `some code` in the middle of a sentence.
+- *Zen Golf* by some doctor
+- *A Course Called Ireland* by Tom Coyne
+- *The Odyssey* by Homer
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Last night I had a quesadilla with these sauces
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. sour cream
+2. salsa
+3. chipolte sauce
+
+### Contact
+
+The best way to get in touch with me is on [on LinkedIn](https://linkedin.com/in/dhalkes/
